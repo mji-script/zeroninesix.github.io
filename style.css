@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #5A7D7C;
+    color: #d4ff00;
+}
+
+header {
+    width: 100%;
+    padding: 5px;
+    background-color: #054D48;
+    text-align: center;
+}
+
+header a {
+    color: #76E7CD;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
+#potato {
+    font-family: 'Times New Roman', Times, serif;
+    color: #76E7CD;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#potato h1 {
+    font-size: 2.5rem;}
+
+#potato p {
+    font-size: 1.4rem;
+    opacity: 0.8;
+}
+
+#banana {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#banana input {
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 20px;
+    font-size: 1rem;
+    text-align: center;
+}
+
+#banana button {
+    height: 40px;
+    width: 80px;
+    border: none;
+    border-radius: 20px;
+    background-color: #76E7CD;
+    color: #054D48;
+    font-size: 1rem;
+    cursor: pointer;
+}
